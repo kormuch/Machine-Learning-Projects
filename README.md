@@ -1,18 +1,10 @@
-Genetic Algorithm for the Sandwich Search
-An early learning project focused on the practical application of a genetic algorithm.
+My Machine Learning Algorithm Projects
+This repository is a collection of programs that demonstrate my approach to studying and understanding machine learning algorithms by building them from scratch. Each project represents a hands-on exercise in translating complex theory into functioning code.
 
-Project Objective & Approach:
-The goal was to deeply understand the mechanics of a genetic algorithm by building one from scratch. The project was developed through intensive Vibe Coding—a process of writing code and logging every intermediate step with print statements. This approach allowed me to trace the algorithm's behavior in real-time and see how it improved from generation to generation. Meticulously reviewing the log files was crucial to truly grasp the practical workings of selection, crossover, and mutation.
-The simple optimization problem was to find the "best" sandwich from a set of ingredients based on a combined score of health and popularity.
+This repository currently includes:
 
-Key Components:
-Chromosome: A binary representation of a sandwich containing all possible ingredients.
-Fitness Function: Calculates a combined score from fictional health and popularity values, with a penalty for too many ingredients.
-Genetic Algorithm: The algorithm progresses through multiple generations using the steps of selection, crossover, and mutation to find an optimal solution.
+Genetic Algorithm: A program designed to optimize a "sandwich" based on health and popularity scores. This project was a deep dive into the practical application of evolutionary algorithms.
 
-Key Learnings:
-This project gave me a deep, hands-on understanding of the core concepts of evolutionary algorithms. It was a vital exercise in learning how to translate abstract theory into a functioning program.
+Decision Tree Model: A project focused on building a decision tree from the ground up to understand its core mechanics and how it makes predictions.
 
-Technologies:
-Python
-Standard Libraries (random, logging)
+Feel free to explore the code and documentation to see my learning journey.
